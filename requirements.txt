@@ -1,0 +1,6 @@
+nuTens
+torch
+gpytorch
+matplotlib
+tqdm
+numpy
